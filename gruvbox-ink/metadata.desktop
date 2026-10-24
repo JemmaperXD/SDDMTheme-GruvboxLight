@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Gruvbox Ink
+Description=Ink-wash mountains on paper, in Gruvbox Light colours
+Author=jemmaperxd
+Copyright=(c) 2026, jemmaperxd
+License=MIT
+Type=sddm-theme
+Version=1.0
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=gruvbox-ink
+Theme-API=2.0
